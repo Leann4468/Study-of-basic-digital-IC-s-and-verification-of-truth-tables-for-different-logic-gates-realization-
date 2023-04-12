@@ -64,9 +64,10 @@ Y= A⊕B
 5.Check all the gates following the same procedure.
 
 # Program:
-/*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by: Leann Joby Mathew
+
 RegisterNumber:  212222230074
 ```PYTHON
 module DEex1(a,b,y1,y2,y3,y4,y5,y6,y7);
@@ -81,16 +82,16 @@ nand (y6,a,b);
 nor (y7,a,b);
 endmodule
 ```
-*/
-#Output:
-#Logic symbol & Truthtable:
+
+# Output:
+# Logic symbol & Truthtable:
 ![logic symbol](https://user-images.githubusercontent.com/121165979/231512621-8eb7f048-f155-4fa4-9616-bee5acad3992.png)
 
-#RTL realization:
+# RTL realization:
 ![RTL](https://user-images.githubusercontent.com/121165979/231512851-eb3421eb-268a-4724-9775-78aa906b3b27.png)
 
-#Waveform:
+# Waveform:
 ![waveform](https://user-images.githubusercontent.com/121165979/231513188-ddb27142-36aa-49d8-8438-fc354cdc6dfd.png)
 
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
